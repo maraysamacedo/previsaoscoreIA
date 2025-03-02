@@ -9,7 +9,7 @@ Utilização de algoritmos de aprendizado de máquina para classificação.
 Interface amigável para análise e visualização de resultados.
 <br><br>
 ## Tecnologias Utilizadas
-Python: Linguagem de programação principal.<br>
-Pandas e Numpy: Para manipulação e processamento de dados.<br>
-Scikit-learn: Biblioteca para algoritmos de aprendizado de máquina.<br>
-Matplotlib e Seaborn: Para visualização de dados.<br>
+- **Python:** Linguagem de programação principal.<br>
+- **Pandas e Numpy:** Para manipulação e processamento de dados.<br>
+- **Scikit-learn:** Biblioteca para algoritmos de aprendizado de máquina.<br>
+- **Matplotlib e Seaborn:** Para visualização de dados.<br>
